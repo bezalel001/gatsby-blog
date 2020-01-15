@@ -14,7 +14,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
+
+  createRedirect({
+    fromPath: "/netlify/anything",
+    toPath: "/https://www.google.com/search?q=anything",
+    isPermanent: true,
+  })
   return graphql(`
     {
       allMarkdownRemark {
