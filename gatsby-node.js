@@ -16,11 +16,11 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions
 
-  createRedirect({
-    fromPath: "/netlify/*",
-    toPath: "/https://www.google.com/search?q=:splat",
-    isPermanent: true,
-  })
+  // createRedirect({
+  //   fromPath: "/netlify/*",
+  //   toPath: "/https://www.google.com/search?q=:splat",
+  //   isPermanent: true,
+  // })
   return graphql(`
     {
       allMarkdownRemark {

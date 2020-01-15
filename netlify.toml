@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/netlify/*"
+  to = "/https://www.google.com/search?q=:splat"
+  force = true
