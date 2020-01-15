@@ -18,7 +18,7 @@ exports.createPages = ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: "/netlify/anything",
-    toPath: "/https://www.google.com/search?q=anything",
+    toUrl: "/https://www.google.com/search?q=anything",
     isPermanent: true,
   })
   return graphql(`
