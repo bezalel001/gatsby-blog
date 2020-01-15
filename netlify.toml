@@ -1,4 +1,6 @@
 [[redirects]]
   from = "https://sad-murdock-49ae49.netlify.com/netlify/*"
   to = "/https://www.google.com/search?q=:splat"
-  force = true
+  status = 200
+  force = true 
+  headers = {X-From = "Netlify"}
