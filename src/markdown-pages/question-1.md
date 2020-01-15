@@ -1,6 +1,6 @@
 ---
-title: "Why I Love Ice Cream"
-date: "2017-08-10"
+title: "Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"
+date: "2020-01-15"
 ---
 
 ### Ice cream is the best.
