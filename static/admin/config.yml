@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "blog"
     label: Blog
-    folder: "markdown-pages"
+    folder: "/markdown-pages"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
