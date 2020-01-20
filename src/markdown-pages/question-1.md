@@ -1,9 +1,11 @@
 ---
-title: "Rank your 5 favorite, and 5 least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6"
+title: "Rank your 5 favorite, and 5 least favorite, activities from this list:"
 date: "2020-01-15"
 ---
 
-### Ice cream is the best.
+[Netlify Support Engineers Responsilibities](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6)
+
+### 5 favorite activitie, on a scale of 1(least desirable) to 5(most desirable).
 
 I scream, you scream, we all scream, because there's no more ice cream. No one's rhyming about spinach.
 
